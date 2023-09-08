@@ -1,0 +1,19 @@
+.pig {
+    background-color: rgb(255, 144, 160);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.pig.bigger {
+    font-size: 24px;
+}
+
+#big-blue {
+    color: rgb(0, 0, 163);
+    font-size: 36px;
+}
+
+#bold-green {
+    background-color: rgb(108, 255, 108);
+    font-size: 24px;
+    font-weight: bold;
+}
