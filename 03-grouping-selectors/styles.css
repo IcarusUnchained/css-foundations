@@ -1,0 +1,14 @@
+.black-me {
+    background-color: black;
+    color: white;
+}
+
+.yellow-me {
+    background-color: yellow;
+}
+
+.black-me,
+.yellow-me {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
